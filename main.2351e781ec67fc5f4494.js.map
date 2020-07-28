@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./js/promise.js","webpack:///./index.js"],"names":["console","log"],"mappings":"4EAAAA,QAAQC,IAAI,Y,yDCAZ,6B","file":"main.2351e781ec67fc5f4494.js","sourcesContent":["console.log('promise');\r\n","import './styles.css';\r\nimport './js/promise';\r\n"],"sourceRoot":""}
